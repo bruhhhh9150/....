@@ -9,6 +9,7 @@
 // @match        https://www.google.com/search?q=*
 // @match        https://188.166.185.213/*
 // @match        https://fb88mg.com/*
+// @match        https://fb88dq.com/*
 // @match        https://vn88no.com/*
 // @match        https://vn88me.com/*
 // @match        https://vn88ie.com/*
