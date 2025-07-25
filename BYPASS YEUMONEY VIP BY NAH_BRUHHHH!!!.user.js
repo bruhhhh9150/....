@@ -15,6 +15,7 @@
 // @match        https://vn88ie.com/*
 // @match        https://bet88ec.com/*
 // @match        https://88betag.com/*
+// @match        https://165.22.63.250/*
 // @match        https://v9betxa.com/*
 // @match        https://v9betho.com/*
 // @match        https://v9betgz.com/*
