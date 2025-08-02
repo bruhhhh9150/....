@@ -13,6 +13,7 @@
 // @match        https://vn88no.com/*
 // @match        https://vn88me.com/*
 // @match        https://vn88ie.com/*
+// @match        https://vn88ve.com/*
 // @match        https://bet88ec.com/*
 // @match        https://bet88ve.com/*
 // @match        https://88betag.com/*
@@ -20,9 +21,9 @@
 // @match        https://v9betxa.com/*
 // @match        https://v9betho.com/*
 // @match        https://v9betgz.com/*
+// @match        https://v9betlg.com/*
 // @match        https://bk8ze.com/*
 // @match        https://bk8xo.com/*
 // @run-at       document-end
 // @icon         https://apngasm.sourceforge.net/colorcube_mini.png
 // ==/UserScript==
-
