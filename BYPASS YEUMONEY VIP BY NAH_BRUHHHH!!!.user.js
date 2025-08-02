@@ -8,6 +8,7 @@
 // @match        https://yeumoney.com/*
 // @match        https://www.google.com/search?q=*
 // @match        https://188.166.185.213/*
+// @match        https://w88abc.com/*
 // @match        https://fb88mg.com/*
 // @match        https://fb88dq.com/*
 // @match        https://vn88no.com/*
@@ -18,6 +19,7 @@
 // @match        https://bet88ve.com/*
 // @match        https://88betag.com/*
 // @match        https://165.22.63.250/*
+// @match        https://88betux.com/*
 // @match        https://v9betxa.com/*
 // @match        https://v9betho.com/*
 // @match        https://v9betgz.com/*
