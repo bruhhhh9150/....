@@ -9,12 +9,14 @@
 // @match        https://www.google.com/search?q=*
 // @match        https://188.166.185.213/*
 // @match        https://w88abc.com/*
+// @match        https://w88xlm.com/*
 // @match        https://fb88mg.com/*
 // @match        https://fb88dq.com/*
 // @match        https://vn88no.com/*
 // @match        https://vn88me.com/*
 // @match        https://vn88ie.com/*
 // @match        https://vn88ve.com/*
+// @match        https://vn88zu.com/*
 // @match        https://bet88ec.com/*
 // @match        https://bet88ve.com/*
 // @match        https://88betag.com/*
@@ -25,6 +27,7 @@
 // @match        https://v9betgz.com/*
 // @match        https://v9betlg.com/*
 // @match        https://bk8ze.com/*
+// @match        https://bk8hn.com/*
 // @match        https://bk8xo.com/*
 // @run-at       document-end
 // @icon         https://apngasm.sourceforge.net/colorcube_mini.png
