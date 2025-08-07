@@ -17,6 +17,7 @@
 // @match        https://vn88ie.com/*
 // @match        https://vn88ve.com/*
 // @match        https://vn88zu.com/*
+// @match        https://vn88lu.com/*
 // @match        https://bet88ec.com/*
 // @match        https://bet88ve.com/*
 // @match        https://bet88bt.com/*
