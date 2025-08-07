@@ -23,6 +23,7 @@
 // @match        https://88betag.com/*
 // @match        https://165.22.63.250/*
 // @match        https://88betux.com/*
+// @match        https://88betvb.com/*
 // @match        https://v9betxa.com/*
 // @match        https://v9betho.com/*
 // @match        https://v9betgz.com/*
