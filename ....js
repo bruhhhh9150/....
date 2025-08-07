@@ -1,123 +1,126 @@
-function _0x2141() {
-    const _0x4d93df = ['#000', 'load', 'random', '⏳\x20Chờ\x2080\x20giây...', 'https://vn88zu.com/', 'href', 'click', '10px', 'observe', 'Vui\x20lòng\x20click\x20vào\x20link\x20trang\x20bất\x20kỳ\x20để\x20lấy\x20mã\x20(menu,\x20footer,\x20bài\x20viết)', 'some', 'https://vn88ie.com/', 'logo', 'a[href^=\x22http\x22]', '16px', 'style', 'a[href]', 'padding', '<img', '436598VCrggM', 'https://w88xlm.com/', 'https://v9betxa.com/', 'function', 'https://88betvb.com/', 'https://88betux.com/', 'includes', '19111512jLbXqj', '50%', 'https://v9betlg.com/', 'scrollHeight', 'innerText', 'innerHTML', '7720SHmkMK', 'floor', 'addEventListener', 'top', 'close-message', 'createElement', 'border', 'left', 'translate(-50%,\x20-50%)', '3805UclmIe', 'origin', '9999', 'transform', 'https://bet88bt.com/', '4024800NvLLiN', 'borderRadius', 'div', 'open', 'white', 'https://vn88no.com/', 'documentElement', 'forEach', 'https://vn88ve.com/', 'length', 'textContent', '1536308LBJCLu', 'remove', 'https://188.166.185.213/', 'fontSize', 'body', 'querySelectorAll', '10px\x2020px', 'https://v9betgz.com/', 'right', 'bottom', 'https://www.google.com/search?q=', '20px', 'appendChild', 'zIndex', 'location', 'yeumoney.com', 'rgba(0,\x200,\x200,\x200.7)', 'color', '_blank', 'pathname', 'https://bk8ze.com/', '3329043drGCxP', 'position', 'disconnect', 'from', 'startsWith', 'https://v9betho.com/', 'background', 'https://fb88dq.com/', 'getElementById', 'https://bk8hn.com/', 'https://w88abc.com/', 'https://88betag.com/', 'https://vn88lu.com/', '5241306VlSbkM', 'https://bet88ve.com/', 'center'];
-    _0x2141 = function() {
-        return _0x4d93df;
-    };
-    return _0x2141();
-}
-
-function _0x3d67(_0x3ac898, _0x4f3aba) {
-    const _0x2141ed = _0x2141();
-    return _0x3d67 = function(_0x3d678e, _0x3eec0e) {
-        _0x3d678e = _0x3d678e - 0x9f;
-        let _0x3d5f5c = _0x2141ed[_0x3d678e];
-        return _0x3d5f5c;
-    }, _0x3d67(_0x3ac898, _0x4f3aba);
-}(function(_0x4ecc2e, _0x163f1c) {
-    const _0x21a7d3 = _0x3d67,
-        _0x2ebece = _0x4ecc2e();
+(function(_0x55a175, _0x133c82) {
+    const _0x884b99 = _0x4351,
+        _0x127405 = _0x55a175();
     while (!![]) {
         try {
-            const _0x35dc20 = -parseInt(_0x21a7d3(0xb8)) / 0x1 + -parseInt(_0x21a7d3(0xde)) / 0x2 + parseInt(_0x21a7d3(0xf3)) / 0x3 + -parseInt(_0x21a7d3(0xc5)) / 0x4 * (parseInt(_0x21a7d3(0xce)) / 0x5) + parseInt(_0x21a7d3(0xd3)) / 0x6 + -parseInt(_0x21a7d3(0xa2)) / 0x7 + parseInt(_0x21a7d3(0xbf)) / 0x8;
-            if (_0x35dc20 === _0x163f1c) break;
-            else _0x2ebece['push'](_0x2ebece['shift']());
-        } catch (_0x4b7a54) {
-            _0x2ebece['push'](_0x2ebece['shift']());
+            const _0x56d005 = parseInt(_0x884b99(0x93)) / 0x1 * (parseInt(_0x884b99(0xa9)) / 0x2) + -parseInt(_0x884b99(0x88)) / 0x3 + -parseInt(_0x884b99(0xb7)) / 0x4 * (parseInt(_0x884b99(0xda)) / 0x5) + parseInt(_0x884b99(0xb8)) / 0x6 * (parseInt(_0x884b99(0xcb)) / 0x7) + parseInt(_0x884b99(0xb5)) / 0x8 + parseInt(_0x884b99(0x8d)) / 0x9 * (parseInt(_0x884b99(0xcd)) / 0xa) + -parseInt(_0x884b99(0xbf)) / 0xb;
+            if (_0x56d005 === _0x133c82) break;
+            else _0x127405['push'](_0x127405['shift']());
+        } catch (_0x3a9f96) {
+            _0x127405['push'](_0x127405['shift']());
         }
     }
-}(_0x2141, 0xb66ac), (function() {
+}(_0x1dd1, 0x7e3ac), (function() {
     'use strict';
-    const _0x5c4c8b = _0x3d67;
-    const _0x25eb2b = [_0x5c4c8b(0xe0), _0x5c4c8b(0x9f), _0x5c4c8b(0xb9), 'https://fb88mg.com/', _0x5c4c8b(0xfa), _0x5c4c8b(0xd8), 'https://vn88me.com/', _0x5c4c8b(0xb0), _0x5c4c8b(0xdb), _0x5c4c8b(0xa9), _0x5c4c8b(0xa1), 'https://bet88ec.com/', _0x5c4c8b(0xa3), _0x5c4c8b(0xd2), _0x5c4c8b(0xa0), 'https://165.22.63.250/', _0x5c4c8b(0xbd), _0x5c4c8b(0xbc), _0x5c4c8b(0xba), _0x5c4c8b(0xf8), _0x5c4c8b(0xe5), 'https://v9betlg.com/', 'https://bk8xo.com/', _0x5c4c8b(0xfc), _0x5c4c8b(0xf2)];
-    if (window[_0x5c4c8b(0xec)]['hostname'] === _0x5c4c8b(0xed)) {
-        let _0x4aef64 = setInterval(() => {
-            const _0x33b181 = _0x5c4c8b,
-                _0x539159 = document['querySelector']('p#TK1');
-            if (_0x539159 && _0x539159['textContent']['trim']()['length'] > 0x0) {
-                clearInterval(_0x4aef64);
-                const _0x2b5aaf = _0x539159['textContent']['trim']()['toLowerCase'](),
-                    _0x15dc06 = {
-                        'w88': _0x33b181(0xb9),
-                        'fb88': _0x33b181(0xfa),
-                        'vn88': _0x33b181(0xa1),
-                        'm88': 'https://bet88ve.com/',
+    const _0xecdfa5 = _0x4351;
+    const _0x2daa19 = [_0xecdfa5(0x9a), 'https://w88abc.com/', 'https://w88xlm.com/', 'https://fb88mg.com/', _0xecdfa5(0x80), _0xecdfa5(0xb4), 'https://vn88me.com/', _0xecdfa5(0xa1), _0xecdfa5(0xa0), _0xecdfa5(0xbd), _0xecdfa5(0xd4), 'https://vn88fu.com/', _0xecdfa5(0x9e), _0xecdfa5(0xc1), _0xecdfa5(0xc9), _0xecdfa5(0xb2), _0xecdfa5(0x85), 'https://165.22.63.250/', _0xecdfa5(0x94), 'https://88betvb.com/', _0xecdfa5(0xd2), _0xecdfa5(0xdc), 'https://v9betgz.com/', _0xecdfa5(0x96), _0xecdfa5(0xd5), 'https://bk8hn.com/', 'https://bk8ly.com/', 'https://bk8ze.com/'];
+    if (window[_0xecdfa5(0xbe)][_0xecdfa5(0x9f)] === _0xecdfa5(0x9c)) {
+        let _0xa5b5ea = setInterval(() => {
+            const _0x457f6f = _0xecdfa5,
+                _0x5ee5f5 = document[_0x457f6f(0xca)](_0x457f6f(0xc7));
+            if (_0x5ee5f5 && _0x5ee5f5[_0x457f6f(0xba)][_0x457f6f(0x89)]()[_0x457f6f(0x8a)] > 0x0) {
+                clearInterval(_0xa5b5ea);
+                const _0x2bd60b = _0x5ee5f5[_0x457f6f(0xba)][_0x457f6f(0x89)]()[_0x457f6f(0x77)](),
+                    _0x2c4a96 = {
+                        'w88': _0x457f6f(0x8f),
+                        'fb88': _0x457f6f(0x80),
+                        'vn88': 'https://vn88fu.com/',
+                        'm88': _0x457f6f(0xb2),
                         '188bet': 'https://88betvb.com/',
-                        'v9bet': _0x33b181(0xc1),
-                        'bk8': _0x33b181(0xfc)
+                        'v9bet': _0x457f6f(0x96),
+                        'bk8': _0x457f6f(0xb6)
                     };
-                let _0x1bb75d = _0x2b5aaf;
-                for (const _0xdb0b3b in _0x15dc06) {
-                    if (_0x2b5aaf[_0x33b181(0xbe)](_0xdb0b3b)) {
-                        _0x1bb75d += '\x20' + _0x15dc06[_0xdb0b3b];
+                let _0x277408 = _0x2bd60b;
+                for (const _0x5a1aa1 in _0x2c4a96) {
+                    if (_0x2bd60b['includes'](_0x5a1aa1)) {
+                        _0x277408 += '\x20' + _0x2c4a96[_0x5a1aa1];
                         break;
                     }
                 }
-                window[_0x33b181(0xd6)](_0x33b181(0xe8) + encodeURIComponent(_0x1bb75d), _0x33b181(0xf0)), _0x248c82();
+                window[_0x457f6f(0xbb)](_0x457f6f(0xc4) + encodeURIComponent(_0x277408), _0x457f6f(0xc5)), _0x2b6102();
             }
         }, 0x64);
     }
-    if (window[_0x5c4c8b(0xec)]['hostname'] === 'www.google.com' && window[_0x5c4c8b(0xec)][_0x5c4c8b(0xf1)] === '/search') {
-        let _0x2a805e = 0x0,
-            _0x5dd921 = new MutationObserver(() => {
-                const _0x1ad79f = _0x5c4c8b,
-                    _0x1c9c44 = document[_0x1ad79f(0xe3)](_0x1ad79f(0xb2));
-                for (let _0x2ef016 of _0x1c9c44) {
-                    if (_0x25eb2b[_0x1ad79f(0xaf)](_0x222f86 => _0x2ef016[_0x1ad79f(0xaa)][_0x1ad79f(0xf7)](_0x222f86))) {
-                        window[_0x1ad79f(0xec)]['href'] = _0x2ef016[_0x1ad79f(0xaa)], _0x5dd921['disconnect']();
+    if (window['location'][_0xecdfa5(0x9f)] === _0xecdfa5(0x84) && window[_0xecdfa5(0xbe)][_0xecdfa5(0xde)] === '/search') {
+        let _0xfc3e8b = 0x0,
+            _0x5d44b4 = new MutationObserver(() => {
+                const _0x6aa754 = _0xecdfa5,
+                    _0x3326bc = document['querySelectorAll'](_0x6aa754(0x8b));
+                for (let _0x4eef53 of _0x3326bc) {
+                    if (_0x2daa19[_0x6aa754(0xd9)](_0x5e6e6d => _0x4eef53[_0x6aa754(0x97)][_0x6aa754(0xa5)](_0x5e6e6d))) {
+                        window[_0x6aa754(0xbe)][_0x6aa754(0x97)] = _0x4eef53[_0x6aa754(0x97)], _0x5d44b4[_0x6aa754(0xa2)]();
                         return;
                     }
                 }
-                _0x2a805e++, _0x2a805e >= 0x4 && (_0x5dd921[_0x1ad79f(0xf5)](), _0x567057());
+                _0xfc3e8b++, _0xfc3e8b >= 0x4 && (_0x5d44b4[_0x6aa754(0xa2)](), _0x4625b0());
             });
-        _0x5dd921[_0x5c4c8b(0xad)](document['body'], {
+        _0x5d44b4['observe'](document[_0xecdfa5(0x95)], {
             'childList': !![],
             'subtree': !![]
         });
 
-        function _0x567057() {
-            const _0x571ce5 = _0x5c4c8b;
-            let _0x57af0c = document[_0x571ce5(0xca)](_0x571ce5(0xd5));
-            _0x57af0c[_0x571ce5(0xb4)][_0x571ce5(0xf4)] = 'fixed', _0x57af0c[_0x571ce5(0xb4)][_0x571ce5(0xc8)] = _0x571ce5(0xc0), _0x57af0c[_0x571ce5(0xb4)][_0x571ce5(0xcc)] = _0x571ce5(0xc0), _0x57af0c['style'][_0x571ce5(0xd1)] = _0x571ce5(0xcd), _0x57af0c[_0x571ce5(0xb4)][_0x571ce5(0xf9)] = _0x571ce5(0xa5), _0x57af0c[_0x571ce5(0xb4)][_0x571ce5(0xef)] = _0x571ce5(0xd7), _0x57af0c[_0x571ce5(0xb4)][_0x571ce5(0xb6)] = _0x571ce5(0xe9), _0x57af0c[_0x571ce5(0xb4)][_0x571ce5(0xcb)] = '2px\x20solid\x20white', _0x57af0c[_0x571ce5(0xb4)][_0x571ce5(0xd4)] = _0x571ce5(0xac), _0x57af0c['style']['textAlign'] = _0x571ce5(0xa4), _0x57af0c[_0x571ce5(0xb4)]['zIndex'] = _0x571ce5(0xd0), _0x57af0c[_0x571ce5(0xc4)] = '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Không\x20tìm\x20thấy\x20nhiệm\x20vụ\x20vui\x20lòng\x20đổi\x20nhiệm\x20vụ</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22close-message\x22\x20style=\x22margin-top:\x2010px;\x20background:\x20red;\x20color:\x20white;\x20border:\x20none;\x20padding:\x205px\x2010px;\x20cursor:\x20pointer;\x22>Đóng</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20', document[_0x571ce5(0xe2)][_0x571ce5(0xea)](_0x57af0c), document[_0x571ce5(0xfb)](_0x571ce5(0xc9))[_0x571ce5(0xc7)](_0x571ce5(0xab), () => {
-                _0x57af0c['remove']();
+        function _0x4625b0() {
+            const _0x46481d = _0xecdfa5;
+            let _0x12b02b = document['createElement'](_0x46481d(0x87));
+            _0x12b02b[_0x46481d(0x79)][_0x46481d(0x92)] = _0x46481d(0x7e), _0x12b02b[_0x46481d(0x79)][_0x46481d(0xb0)] = _0x46481d(0xa6), _0x12b02b[_0x46481d(0x79)][_0x46481d(0x8e)] = _0x46481d(0xa6), _0x12b02b[_0x46481d(0x79)][_0x46481d(0xb1)] = _0x46481d(0xae), _0x12b02b[_0x46481d(0x79)][_0x46481d(0x7d)] = '#000', _0x12b02b['style']['color'] = _0x46481d(0xad), _0x12b02b[_0x46481d(0x79)]['padding'] = _0x46481d(0xcf), _0x12b02b[_0x46481d(0x79)][_0x46481d(0xd8)] = _0x46481d(0xcc), _0x12b02b[_0x46481d(0x79)][_0x46481d(0x81)] = '10px', _0x12b02b[_0x46481d(0x79)][_0x46481d(0xaf)] = _0x46481d(0x91), _0x12b02b[_0x46481d(0x79)][_0x46481d(0x83)] = _0x46481d(0xc8), _0x12b02b[_0x46481d(0xc3)] = _0x46481d(0xd0), document[_0x46481d(0x95)][_0x46481d(0xce)](_0x12b02b), document['getElementById']('close-message')[_0x46481d(0xd3)](_0x46481d(0xd1), () => {
+                const _0x34c8c8 = _0x46481d;
+                _0x12b02b[_0x34c8c8(0x86)]();
             });
         }
     }
-    window[_0x5c4c8b(0xc7)](_0x5c4c8b(0xa6), () => {
+    window[_0xecdfa5(0xd3)](_0xecdfa5(0xa4), () => {
         setTimeout(() => {
-            const _0x248d63 = _0x3d67;
-            _0x25eb2b[_0x248d63(0xaf)](_0x5f03ba => window['location'][_0x248d63(0xaa)]['startsWith'](_0x5f03ba)) && (document[_0x248d63(0xd9)]['scrollTop'] = document[_0x248d63(0xd9)][_0x248d63(0xc2)]);
+            const _0x5b4317 = _0x4351;
+            _0x2daa19['some'](_0xc04627 => window[_0x5b4317(0xbe)][_0x5b4317(0x97)][_0x5b4317(0xa5)](_0xc04627)) && (document[_0x5b4317(0xab)]['scrollTop'] = document[_0x5b4317(0xab)]['scrollHeight']);
         }, 0x3e8);
-    }), window[_0x5c4c8b(0xc7)]('load', () => {
+    }), window[_0xecdfa5(0xd3)](_0xecdfa5(0xa4), () => {
         setInterval(() => {
-            const _0x306901 = _0x3d67,
-                _0x4d6ed3 = document[_0x306901(0xe3)]('span.ymn-btn.ymn-btn3');
-            _0x4d6ed3['forEach'](_0x1dcd32 => {
-                const _0x22fd97 = _0x306901;
-                typeof _0x1dcd32[_0x22fd97(0xab)] === _0x22fd97(0xbb) && _0x1dcd32[_0x22fd97(0xab)]();
+            const _0xf7c471 = _0x4351,
+                _0x4e4e39 = document['querySelectorAll'](_0xf7c471(0x78));
+            _0x4e4e39[_0xf7c471(0xc0)](_0x5ad3eb => {
+                const _0x4852cd = _0xf7c471;
+                typeof _0x5ad3eb[_0x4852cd(0xd1)] === _0x4852cd(0xa7) && _0x5ad3eb[_0x4852cd(0xd1)]();
             });
         }, 0x12c);
     }), setInterval(() => {
-        const _0x3e531f = _0x5c4c8b;
-        document[_0x3e531f(0xe3)]('*')[_0x3e531f(0xda)](_0xab2aab => {
-            const _0x45d91f = _0x3e531f;
-            if (_0xab2aab[_0x45d91f(0xdd)][_0x45d91f(0xbe)](_0x45d91f(0xae))) {
-                const _0x301c67 = Array[_0x45d91f(0xf6)](document[_0x45d91f(0xe3)](_0x45d91f(0xb5)))['filter'](_0x32c22d => _0x32c22d[_0x45d91f(0xaa)][_0x45d91f(0xf7)](location[_0x45d91f(0xcf)]) && !_0x32c22d[_0x45d91f(0xc4)]['includes'](_0x45d91f(0xb7)) && !_0x32c22d[_0x45d91f(0xaa)][_0x45d91f(0xbe)](_0x45d91f(0xb1)));
-                _0x301c67[_0x45d91f(0xdc)] && setTimeout(() => {
-                    const _0x35675e = _0x45d91f;
-                    _0x301c67[Math[_0x35675e(0xc6)](Math[_0x35675e(0xa7)]() * _0x301c67[_0x35675e(0xdc)])][_0x35675e(0xab)]();
+        const _0x2e8f4d = _0xecdfa5;
+        document[_0x2e8f4d(0xb3)]('*')[_0x2e8f4d(0xc0)](_0xfba61d => {
+            const _0x413215 = _0x2e8f4d;
+            if (_0xfba61d['textContent'][_0x413215(0x90)](_0x413215(0xdb))) {
+                const _0x433d6b = Array[_0x413215(0x9d)](document[_0x413215(0xb3)](_0x413215(0x7b)))['filter'](_0x718390 => _0x718390[_0x413215(0x97)][_0x413215(0xa5)](location[_0x413215(0xd6)]) && !_0x718390['innerHTML'][_0x413215(0x90)](_0x413215(0xb9)) && !_0x718390[_0x413215(0x97)][_0x413215(0x90)](_0x413215(0xd7)));
+                _0x433d6b[_0x413215(0x8a)] && setTimeout(() => {
+                    const _0x2bccd7 = _0x413215;
+                    _0x433d6b[Math[_0x2bccd7(0xa3)](Math[_0x2bccd7(0x9b)]() * _0x433d6b[_0x2bccd7(0x8a)])][_0x2bccd7(0xd1)]();
                 }, 0x12c);
             }
         });
     }, 0x64);
 
-    function _0x248c82() {
-        const _0x4eacb8 = _0x5c4c8b;
-        let _0x540bc8 = document[_0x4eacb8(0xca)]('div');
-        _0x540bc8[_0x4eacb8(0xb4)][_0x4eacb8(0xf4)] = 'fixed', _0x540bc8[_0x4eacb8(0xb4)][_0x4eacb8(0xe7)] = _0x4eacb8(0xe9), _0x540bc8[_0x4eacb8(0xb4)][_0x4eacb8(0xe6)] = '20px', _0x540bc8[_0x4eacb8(0xb4)]['backgroundColor'] = _0x4eacb8(0xee), _0x540bc8['style'][_0x4eacb8(0xef)] = _0x4eacb8(0xd7), _0x540bc8['style'][_0x4eacb8(0xb6)] = _0x4eacb8(0xe4), _0x540bc8[_0x4eacb8(0xb4)][_0x4eacb8(0xd4)] = _0x4eacb8(0xac), _0x540bc8[_0x4eacb8(0xb4)][_0x4eacb8(0xe1)] = _0x4eacb8(0xb3), _0x540bc8[_0x4eacb8(0xb4)]['fontWeight'] = 'bold', _0x540bc8['style'][_0x4eacb8(0xeb)] = _0x4eacb8(0xd0), _0x540bc8['innerText'] = _0x4eacb8(0xa8), document[_0x4eacb8(0xe2)]['appendChild'](_0x540bc8);
-        let _0x6c913a = 0x50,
-            _0x4ed102 = setInterval(function() {
-                const _0x3d1de4 = _0x4eacb8;
-                _0x6c913a--, _0x540bc8[_0x3d1de4(0xc3)] = '⏳\x20Chờ\x20' + _0x6c913a + '\x20giây...', _0x6c913a <= 0x0 && (clearInterval(_0x4ed102), _0x540bc8[_0x3d1de4(0xdf)]());
+    function _0x2b6102() {
+        const _0x388fcf = _0xecdfa5;
+        let _0x3cae46 = document[_0x388fcf(0xa8)]('div');
+        _0x3cae46['style'][_0x388fcf(0x92)] = _0x388fcf(0x7e), _0x3cae46['style'][_0x388fcf(0xc2)] = _0x388fcf(0xcf), _0x3cae46[_0x388fcf(0x79)][_0x388fcf(0x7f)] = '20px', _0x3cae46[_0x388fcf(0x79)][_0x388fcf(0x7c)] = _0x388fcf(0x7a), _0x3cae46[_0x388fcf(0x79)]['color'] = 'white', _0x3cae46[_0x388fcf(0x79)][_0x388fcf(0xac)] = '10px\x2020px', _0x3cae46[_0x388fcf(0x79)][_0x388fcf(0x81)] = _0x388fcf(0xbc), _0x3cae46[_0x388fcf(0x79)][_0x388fcf(0x8c)] = '16px', _0x3cae46[_0x388fcf(0x79)][_0x388fcf(0xdd)] = _0x388fcf(0x82), _0x3cae46[_0x388fcf(0x79)][_0x388fcf(0x83)] = _0x388fcf(0xc8), _0x3cae46[_0x388fcf(0xaa)] = _0x388fcf(0x98), document[_0x388fcf(0x95)]['appendChild'](_0x3cae46);
+        let _0x2ac5a1 = 0x50,
+            _0x4c89fe = setInterval(function() {
+                const _0x2515dc = _0x388fcf;
+                _0x2ac5a1--, _0x3cae46['innerText'] = _0x2515dc(0xc6) + _0x2ac5a1 + _0x2515dc(0x99), _0x2ac5a1 <= 0x0 && (clearInterval(_0x4c89fe), _0x3cae46[_0x2515dc(0x86)]());
             }, 0x3e8);
     }
 }()));
+
+function _0x4351(_0x238f58, _0x2b92cf) {
+    const _0x1dd1ee = _0x1dd1();
+    return _0x4351 = function(_0x4351f0, _0x2c9b8a) {
+        _0x4351f0 = _0x4351f0 - 0x77;
+        let _0x31f7e9 = _0x1dd1ee[_0x4351f0];
+        return _0x31f7e9;
+    }, _0x4351(_0x238f58, _0x2b92cf);
+}
+
+function _0x1dd1() {
+    const _0x23b1e1 = ['querySelectorAll', 'https://vn88no.com/', '3272848suyqTw', 'https://bk8ly.com/', '2851432ypBjfz', '6hVEoqY', '<img', 'textContent', 'open', '10px', 'https://vn88zu.com/', 'location', '8994436HwuWGs', 'forEach', 'https://bet88ve.com/', 'bottom', 'innerHTML', 'https://www.google.com/search?q=', '_blank', '⏳\x20Chờ\x20', 'p#TK1', '9999', 'https://bet88bt.com/', 'querySelector', '6384098kPqSgE', '2px\x20solid\x20white', '530dwZBHm', 'appendChild', '20px', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Không\x20tìm\x20thấy\x20nhiệm\x20vụ\x20vui\x20lòng\x20đổi\x20nhiệm\x20vụ</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22close-message\x22\x20style=\x22margin-top:\x2010px;\x20background:\x20red;\x20color:\x20white;\x20border:\x20none;\x20padding:\x205px\x2010px;\x20cursor:\x20pointer;\x22>Đóng</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20', 'click', 'https://v9betxa.com/', 'addEventListener', 'https://vn88lu.com/', 'https://bk8xo.com/', 'origin', 'logo', 'border', 'some', '5zaBfOz', 'Vui\x20lòng\x20click\x20vào\x20link\x20trang\x20bất\x20kỳ\x20để\x20lấy\x20mã\x20(menu,\x20footer,\x20bài\x20viết)', 'https://v9betho.com/', 'fontWeight', 'pathname', 'toLowerCase', 'span.ymn-btn.ymn-btn3', 'style', 'rgba(0,\x200,\x200,\x200.7)', 'a[href]', 'backgroundColor', 'background', 'fixed', 'right', 'https://fb88dq.com/', 'borderRadius', 'bold', 'zIndex', 'www.google.com', 'https://88betag.com/', 'remove', 'div', '691560IdbENB', 'trim', 'length', 'a[href^=\x22http\x22]', 'fontSize', '12141aPBrqk', 'left', 'https://w88xlm.com/', 'includes', 'center', 'position', '1hgidym', 'https://88betux.com/', 'body', 'https://v9betlg.com/', 'href', '⏳\x20Chờ\x2080\x20giây...', '\x20giây...', 'https://188.166.185.213/', 'random', 'yeumoney.com', 'from', 'https://bet88ec.com/', 'hostname', 'https://vn88ve.com/', 'https://vn88ie.com/', 'disconnect', 'floor', 'load', 'startsWith', '50%', 'function', 'createElement', '1770946YcOyEe', 'innerText', 'documentElement', 'padding', 'white', 'translate(-50%,\x20-50%)', 'textAlign', 'top', 'transform', 'https://bet88mu.com/'];
+    _0x1dd1 = function() {
+        return _0x23b1e1;
+    };
+    return _0x1dd1();
+}
